@@ -1,3 +1,5 @@
+
+
 # 🚑 A.R.I. - 스마트 재난구조 자율주행 로봇
 
 > **Autonomous Rescue Robot 'A.R.I.' (Autonomous Rescue Intelligence)**
@@ -10,17 +12,9 @@
 
 ## 📺 프로젝트 구동 영상 (Demonstration)
 
-### 🔹 방법 1. 깃허브 직접 업로드 비디오 (추천)
-> 리드미 편집 모드(Edit)에서 `.mp4` 영상을 이 자리에 드래그 앤 드롭(Drag & Drop)하면 아래 형식으로 자동 전환되어 리드미 내에서 바로 재생됩니다.
 
-https://github.com/user-attachments/assets/your-video-id-here (파일을 올리면 이 위치에 링크가 자동 생성됩니다)
 
-### 🔹 방법 2. 유튜브 링크 연동 (이미지 썸네일 클릭)
-> 영상을 유튜브에 올리셨다면, 아래의 `유튜브_영상_ID` 부분을 실제 영상 주소 값으로 수정하여 사용하세요. 썸네일을 클릭하면 유튜브로 이동합니다.
 
-[![스마트 구조로봇 구동영상](https://img.youtube.com/vi/유튜브_영상_ID/0.jpg)](https://www.youtube.com/watch?v=유튜브_영상_ID)
-
----
 
 ## 📝 1. 프로젝트 설명 및 개요 (Project Description)
 
