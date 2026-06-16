@@ -1,5 +1,7 @@
 
 
+
+
 # 🚑 A.R.I. - 스마트 재난구조 자율주행 로봇
 
 > **Autonomous Rescue Robot 'A.R.I.' (Autonomous Rescue Intelligence)**
@@ -12,8 +14,10 @@
 
 ## 📺 프로젝트 구동 영상 (Demonstration)
 
+https://github.com/user-attachments/assets/99a5164f-b4b6-4dd8-a28a-389ec5960214
 
 
+---
 
 
 ## 📝 1. 프로젝트 설명 및 개요 (Project Description)
