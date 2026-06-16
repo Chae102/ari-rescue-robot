@@ -1,4 +1,4 @@
-# 🚑 A.R.I. - 스마트 재난구조 자율주행 로봇 (v2.0)
+# 🚑 A.R.I. - 스마트 재난구조 자율주행 로봇
 
 > **Autonomous Rescue Robot 'A.R.I.' (Autonomous Rescue Intelligence)**
 > 
